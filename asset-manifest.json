@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/metService/static/css/main.03b15909.chunk.css",
+    "main.js": "/metService/static/js/main.e4bfd409.chunk.js",
+    "main.js.map": "/metService/static/js/main.e4bfd409.chunk.js.map",
+    "runtime-main.js": "/metService/static/js/runtime-main.6c515ee5.js",
+    "runtime-main.js.map": "/metService/static/js/runtime-main.6c515ee5.js.map",
+    "static/js/2.62c6ea5e.chunk.js": "/metService/static/js/2.62c6ea5e.chunk.js",
+    "static/js/2.62c6ea5e.chunk.js.map": "/metService/static/js/2.62c6ea5e.chunk.js.map",
+    "static/js/3.8bd78445.chunk.js": "/metService/static/js/3.8bd78445.chunk.js",
+    "static/js/3.8bd78445.chunk.js.map": "/metService/static/js/3.8bd78445.chunk.js.map",
+    "index.html": "/metService/index.html",
+    "static/css/main.03b15909.chunk.css.map": "/metService/static/css/main.03b15909.chunk.css.map",
+    "static/js/2.62c6ea5e.chunk.js.LICENSE.txt": "/metService/static/js/2.62c6ea5e.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/metService/static/media/Simple-Line-Iconsd41d.cb4840b5.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c515ee5.js",
+    "static/js/2.62c6ea5e.chunk.js",
+    "static/css/main.03b15909.chunk.css",
+    "static/js/main.e4bfd409.chunk.js"
+  ]
+}
